@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-51xb6t.yoursingles.online/sitemap.xml
